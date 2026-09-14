@@ -4,3 +4,6 @@ Data acquisition and analysis for Wichita State University's Shocker Racing Baja
 Data acquisition is completed through various sensors connecting back to the PCB. Included is a thermocouple for engine temp, a thermocouple for gearcase temp, a GPS, a 9 DoF IMU, and a voltage sensor. All data is written to a CSV through a micro-SD card breakout board. 
 
 The data acquired is analyzed for each driver separated by the rest period during driver switches.
+
+# PCB
+<img width="1262" height="947" alt="PCB_Front" src="https://github.com/user-attachments/assets/a37d5719-ddc0-480a-bb97-47548dd356ba" />

@@ -20,5 +20,7 @@ For the driver: press the PTT button to transmit
 For the pit crew: press either the headset button or the transmit button on the side of the radio
 
 The radios have an LED indicator
+
 RED: transmitting
+
 GREEN: recieving

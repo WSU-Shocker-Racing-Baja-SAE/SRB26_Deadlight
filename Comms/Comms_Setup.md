@@ -12,8 +12,8 @@ Radio Set up
 3. Turn the volume knob on top to turn on the radio
 4. Do this with the second radio as well
 5. Set the channels of both radios to a UHF channel
-5. 1. Press the settings cog
-5. 2. Press the down or up arrows until you reach the desired channel
+   1. Press the settings cog
+  2. Press the down or up arrows until you reach the desired channel
 
 Radio Use
 For the driver: press the PTT button to transmit

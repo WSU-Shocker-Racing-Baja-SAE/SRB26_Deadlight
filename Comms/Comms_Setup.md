@@ -1,4 +1,5 @@
 # Communications Step by Step
+<img width="1445" height="1445" alt="image" src="https://github.com/user-attachments/assets/5d04df4b-79cc-41da-9a95-5fe84404a674" />
 
 Wiring
 1. Mount the ear pieces and microphone in a racing helmet (most have pockets at the ears where it will fit nicely)
